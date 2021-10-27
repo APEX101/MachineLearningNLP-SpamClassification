@@ -11,7 +11,7 @@ Classifies whether the  SMS is a Spam or a Ham using NLTK and Machine Learning.
 - Feature Engineering.
 - Data Visualization.
 - Text Processing and Cleaning.
-- Vectorized using CountVectorizer (BAG OF WORDS) also tried TFIDFTransformer to check for potential accuracy increase.
+- Vectorized using CountVectorizer (BAG OF WORDS) and  TFIDFTransformer  for potential accuracy increase.
 - Trained the model using MultiNomial Naive Bayes Algorithm using a pipeline.
 - Hyperparameter Tuning the Algorithms yielding best results.
 
